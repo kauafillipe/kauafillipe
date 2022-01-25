@@ -9,7 +9,7 @@
 ## :books: Projects
 - **[Olympic Games dataset analysis:](https://github.com/kauafillipe/Projeto-1---Turing-Academy)** A full analysis of the given dataset, including Data cleaning, manipulation and visualization.
 - **[Predictions at Data Science career:](https://github.com/kauafillipe/Projeto-2---Turing-Academy)** Classification models that predict if a data scientist will or will not change his/her/them carreer.
-- **[Make a pipeline:](https://github.com/kauafillipe/Pipeline)** Star classification models built with pipelines.
+- **[Data Science Projects:](https://github.com/kauafillipe/Data-Science-Projects)** Some DS projects.
 ---
 ## 📈 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauafillipe&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
